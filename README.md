@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pratiksuthar2624@email.com">
+  <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -27,9 +27,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,vscode,figma" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,vscode,figma" />
 </p>
 
 ---
@@ -56,11 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PratikSuthar8&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PratikSuthar8&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PratikSuthar8&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=PratikSuthar8&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
