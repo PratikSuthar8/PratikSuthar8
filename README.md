@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:pratiksuthar2624@email.com">
     <img src="https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
