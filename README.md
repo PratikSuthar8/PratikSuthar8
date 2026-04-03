@@ -1,26 +1,30 @@
 <h1 align="center">🚀 Pratik Suthar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;I+Build+Web+Apps+That+Convert+Users+Into+Customers" />
 </p>
 
 <p align="center">
-  💻 Modern Web Development • ⚡ Fast & Scalable • 🎯 Business-Oriented
+  💻 High-Performance Web Apps • ⚡ Scalable Systems • 🎯 Business-Focused Development
 </p>
 
 <p align="center">
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Deliver
 
-* 💻 Full Stack Developer focused on performance & scalability
-* ⚡ Building modern, responsive web applications
-* 🎯 Turning ideas into real digital products
+✔️ Fast, responsive, and scalable web applications
+✔️ Clean UI/UX that improves user engagement
+✔️ Business-driven solutions (not just code)
+✔️ Reliable, maintainable, production-ready systems
 
 ---
 
@@ -36,18 +40,25 @@
 
 ### 🔹 BOQ Calculator
 
-📊 Smart cost calculation tool
-⚡ Improves efficiency & accuracy
+📊 Smart cost estimation tool for efficiency
+🔗 **Live Demo:** https://your-live-link.com
+💻 **Code:** https://github.com/PratikSuthar8/BOQ-Calculation
+
+---
 
 ### 🔹 YumEats
 
-🍔 Modern food ordering UI
-🎯 Clean design + smooth UX
+🍔 Modern food ordering UI with smooth UX
+🔗 **Live Demo:** https://your-live-link.com
+💻 **Code:** https://github.com/PratikSuthar8/YumEats
+
+---
 
 ### 🔹 Social Media Clone
 
-📱 Responsive frontend system
-⚡ Component-based architecture
+📱 Responsive UI with component-based architecture
+🔗 **Live Demo:** https://your-live-link.com
+💻 **Code:** https://github.com/PratikSuthar8/socialmedia-clone
 
 ---
 
@@ -60,10 +71,19 @@
 
 ---
 
-## 🤝 Let's Work Together
+## 💼 Why Clients Choose Me
+
+✔️ Focus on real business impact
+✔️ Strong UI + performance balance
+✔️ Clear communication & fast delivery
+✔️ Solutions designed to scale
+
+---
+
+## 🤝 Let’s Work Together
 
 <p align="center">
-  🚀 Open for freelance projects & collaborations <br/><br/>
+  🚀 Available for freelance & collaborations <br/><br/>
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Contact%20Me-0088FF?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
@@ -71,15 +91,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://linkedin.com/">LinkedIn</a> •
-  <a href="https://instagram.com/">Instagram</a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Building impactful digital experiences
+  ⭐ Building digital products that stand out
 </p>
