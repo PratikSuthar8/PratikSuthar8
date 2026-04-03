@@ -1,22 +1,26 @@
 <h1 align="center">🚀 Pratik Suthar</h1>
-<h3 align="center">Full Stack Developer | Building High-Performance Web Experiences</h3>
 
 <p align="center">
-  💻 Modern Web Apps | ⚡ Fast & Scalable Solutions | 🎯 Business-Focused Development  
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps" />
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com"><b>📩 Hire Me</b></a>
+  💻 Modern Web Development • ⚡ Fast & Scalable • 🎯 Business-Oriented
+</p>
+
+<p align="center">
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💼 What I Do
+## 🚀 About Me
 
-✔️ Build responsive, high-performance websites
-✔️ Develop scalable web applications
-✔️ Create modern UI/UX experiences
-✔️ Turn ideas into real digital products
+* 💻 Full Stack Developer focused on performance & scalability
+* ⚡ Building modern, responsive web applications
+* 🎯 Turning ideas into real digital products
 
 ---
 
@@ -24,41 +28,39 @@
 
 <p align="center">
 
-Frontend: HTML • CSS • JavaScript • React • Next.js
-Backend: Node.js • REST APIs
-Tools: Git • GitHub • VS Code • Figma
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,vscode,figma" />
 
 </p>
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
 ### 🔹 BOQ Calculator
 
-📊 Smart web tool for efficient BOQ calculation
-⚡ Improves workflow and reduces manual effort
+📊 Smart cost calculation tool
+⚡ Improves efficiency & accuracy
 
 ### 🔹 YumEats
 
-🍔 Modern food ordering interface
-🎯 Focused on clean UI and smooth user experience
+🍔 Modern food ordering UI
+🎯 Clean design + smooth UX
 
 ### 🔹 Social Media Clone
 
-📱 Responsive frontend project
-⚡ Built with reusable components & modern layout
+📱 Responsive frontend system
+⚡ Component-based architecture
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratikSuthar8&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PratikSuthar8&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikSuthar8&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=PratikSuthar8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -66,8 +68,10 @@ Tools: Git • GitHub • VS Code • Figma
 ## 🤝 Let's Work Together
 
 <p align="center">
-  🚀 Available for freelance projects & collaborations <br/><br/>
-  <a href="mailto:your@email.com"><b>📩 Contact Me</b></a>
+  🚀 Open for freelance projects & collaborations <br/><br/>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-0088FF?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -81,17 +85,6 @@ Tools: Git • GitHub • VS Code • Figma
 
 ---
 
-## ⚡ Why Choose Me?
-
-✔️ Clean, scalable & maintainable code
-✔️ Strong focus on performance & UI
-✔️ Reliable communication & delivery
-✔️ Solutions tailored for real business needs
-
----
-
 <p align="center">
-  ⭐ Turning ideas into powerful digital products
+  ⭐ Building impactful digital experiences
 </p>
-
----
